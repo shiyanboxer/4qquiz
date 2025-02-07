@@ -18,7 +18,7 @@ export function QuotientCard({ title, description, icon, index }: QuotientCardPr
       transition={{ duration: 0.5, delay: index * 0.1 }}
       viewport={{ once: true }}
     >
-      <Card className="group relative overflow-hidden bg-white hover:shadow-lg transition-all duration-300">
+      <Card className="group relative overflow-hidden bg-white/70 backdrop-blur-sm hover:shadow-lg transition-all duration-300 ">
         <CardContent className="p-6">
           <div className="mb-4 flex justify-center">
             <div className="p-3 rounded-2xl bg-amber-50 text-amber-600 group-hover:scale-110 transition-transform duration-300">

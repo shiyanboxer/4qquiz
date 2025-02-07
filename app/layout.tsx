@@ -49,7 +49,7 @@ export default function RootLayout({
             </div>
           </nav>
           <div className="h-screen bg-[url('/bg4q.svg')] bg-fixed bg-cover bg-center bg-no-repeat">
-          <main className="pt-16">{children}</main></div>
+            <main className="pt-16">{children}</main></div>
         </div>
       </body>
     </html>

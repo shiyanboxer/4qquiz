@@ -26,7 +26,7 @@ export function Hero() {
           <span className="bg-gradient-to-r from-amber-600 to-amber-800 bg-clip-text text-transparent">Inner Balance</span>
         </h1>
         <p className="mt-6 text-xl text-stone-600 max-w-xl mx-auto flex flex-col">
-          Take 10 minutes to explore your Physical, Intellectual, Emotional, and Spiritual quotients across different life stages.
+          Explore your Physical, Intellectual, Emotional, and Spiritual quotients across different life stages.
         </p>
         <div className="mt-10">
           <Link

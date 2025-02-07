@@ -47,7 +47,7 @@ export default function About() {
       </section>
 
       <div className="grid md:grid-cols-2 gap-8">
-        <Card className="bg-white/50 backdrop-blur-sm">
+        <Card className="bg-white/70 backdrop-blur-sm">
           <CardContent className="p-6">
             <h2 className="text-2xl font-semibold mb-4 bg-gradient-to-r from-amber-600 to-amber-800 bg-clip-text text-transparent">
               How to Use the Quiz
@@ -77,7 +77,7 @@ export default function About() {
           </CardContent>
         </Card>
 
-        <Card className="bg-white/50 backdrop-blur-sm">
+        <Card className="bg-white/70 backdrop-blur-sm">
           <CardContent className="p-6">
             <h2 className="text-2xl font-semibold mb-4 bg-gradient-to-r from-amber-600 to-amber-800 bg-clip-text text-transparent">
               Understanding Your Results
